@@ -99,6 +99,8 @@ Save the incident.
 
 This step represents a Tier 1 analyst actively working the ticket.
 
+<img width="512" height="164" alt="image" src="https://github.com/user-attachments/assets/f4401a69-b426-4899-a4e2-30beb8efe664" />
+
 ### Phase 5 – Escalate the Incident (Tier 2)
 
 Simulate escalation to a Tier 2 team after determining the issue requires specialized support.
@@ -144,3 +146,4 @@ This completes the full incident lifecycle.
 ### Key Takeaways
 
 This lab demonstrated the complete incident lifecycle in ServiceNow, from user submission through investigation, escalation, and resolution. By creating assignment groups and an end user, the lab simulated a realistic Tier 1 help desk workflow and Tier 2 escalation process. The exercise reinforced how ServiceNow uses structured fields, ownership, and priority logic to manage incidents efficiently in enterprise IT environments.
+
